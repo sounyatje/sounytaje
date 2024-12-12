@@ -1,6 +1,6 @@
 # 👩‍💻 Sounyâ Abattouy
 
-### Front-end Developer
+### Web Developer 🌐 | Front-end Developer 💻 | React.js ⚛️ | Node.js | MongoDB | Express.js | Tailwind CSS| Figma | SEO 👩‍💻| JavaScript
 
 ---
 
