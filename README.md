@@ -4,15 +4,6 @@
 
 ---
 
-### 📫 Contact
-
-- **Email**: [sounya-abattouy@live.be](mailto:sounya-abattouy@live.be)
-- **Phone**: +32 484 56 17 24
-- **Website**: [sounya.interface3.be](http://sounya.interface3.be)
-- **Location**: Vilvoorde
-
----
-
 ### 🛠 My Skills
 
 #### Core Skills
